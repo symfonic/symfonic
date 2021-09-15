@@ -1,2 +1,4 @@
 /vendor
 .idea
+
+packages/builder/.idea
