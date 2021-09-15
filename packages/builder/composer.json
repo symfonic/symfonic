@@ -1,0 +1,9 @@
+{
+    "name": "symfonic/builder",
+    "bin": ["bin/build"],
+    "autoload": {
+        "psr-4": {
+            "Symfonic\\Builder\\": "src"
+        }
+    }
+}
